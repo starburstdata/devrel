@@ -4,6 +4,8 @@
 
 ### [Webinar Registration](https://www.starburst.io/info/hands-on-with-apache-iceberg-build-evolve-operate-event-webinar-light/)
 
+### [INSTRUCTIONS](INSTRUCTIONS.md)
+
 ### Description
 
 This 90 minute hands-on Workshop provides an introduction to [Apache Iceberg](https://iceberg.apache.org). It covers the full table lifecycle, from creating your first Iceberg table to managing snapshots, performing rollbacks, and running compactions to improve performance. 

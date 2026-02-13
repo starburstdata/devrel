@@ -2,7 +2,7 @@
 
 Starburst Office Hours is a live & interactive webinar series presented by [Starburst DevRel](https://devcenter.starburst.io) which is also available on-demand. The format is a 30 minute session where DevRel:
 
-- delivers a technical demonstration of something for up to the first 20 minutes
+- delivers a technical demonstration for up to the first 20 minutes
 - devotes the last 10+ minutes to Q&A about the demo OR ANYTHING related to Trino and/or Starburst 
 
 ## Upcoming Office Hours

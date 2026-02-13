@@ -12,7 +12,7 @@ If you do not already have a configured Starburst Galaxy environment, please [si
 
 The registration process is self-explanatory, but *if needed*, there is a [Starburst Galaxy: Getting started](https://devcenter.starburst.io/tutorials/starburst-galaxy-getting-started) tutorial available. 
 
-**Alternatively**, any [Trino](https://trino.io) environment, including [Starburst Enterprise](https://www.starburst.io/starburst-enterprise/) can be used.
+**Alternatively**, any [Trino](https://trino.io) environment, including [Starburst Enterprise](https://www.starburst.io/starburst-enterprise/), can be used.
 
 ### AWS S3
 
@@ -43,4 +43,4 @@ As indentifed in the [Configure a Starburst Galaxy data lake catalog and schema]
 - Remove the `tmp_cat` catalog from all clusters it is connected to
 - Delete the `tmp_cat` catalog from the system
 
-If you need to use this S3 bucket again, perform the configuration steps again and be sure to delete the catalog after use.
+If you need to use this S3 bucket again, repeat the configuration steps and be sure to delete the catalog after use.
