@@ -7,6 +7,9 @@ Starburst Workshops are hands-on exercises that everyone can participate in to l
 - pauses at each major step to answer any questions and/or help folks struggling with any activity
 - leaves time at the end for general Q&A about the workshop OR ANYTHING related to Trino and/or Starburst 
 
+## Environmental Setup
+Instructions for setting up (and tearing down) the hands-on environment used in this workshop series are presented in [Environment Setup](./ENV-SETUP.md).
+
 ## Upcoming Workshops
 The table below shows the upcoming webinars in this series, but ALL Starburst webinars are listed at [Upcoming Events](https://www.starburst.io/learn/events-webinars/).
 
