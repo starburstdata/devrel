@@ -6,7 +6,7 @@ The hands-on environment used in the [Starburst Workshops](./README.md) series i
 
 This video provides a narrated walkthrough of this setup section with a focus on performing the minimal steps needed for Starburst Workshops.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_joJC7bAoak/0.jpg)](http://www.youtube.com/watch?v=_joJC7bAoak)
+[![Setup video](http://img.youtube.com/vi/_joJC7bAoak/0.jpg)](http://www.youtube.com/watch?v=_joJC7bAoak)
 
 ### Starburst Galaxy
 
