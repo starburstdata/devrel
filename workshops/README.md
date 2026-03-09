@@ -24,5 +24,5 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Topic | Date |
 |-------|------|
-| [Migrating to Apache Iceberg from Hive](https://www.starburst.io/info/workshop-migrating-to-apache-iceberg-from-hive/) | 2026-03-12
+| [Migrating to Apache Iceberg from Hive](iceberg-migration/README.md) | 2026-03-12
 | [Hands‑On with Apache Iceberg: Build, Evolve, Operate](iceberg-exploration/README.md) | 2026-02-19 |
