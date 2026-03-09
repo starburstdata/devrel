@@ -15,10 +15,14 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Date | Topic |
 |------|-------|
-| 2026-03-12 | [Migrating to Apache Iceberg from Hive](https://www.starburst.io/info/workshop-migrating-to-apache-iceberg-from-hive/) |
+| 2026-04-30 | Iceberg Branching & Tagging (link coming) |
+| 2026-05-21 | Dataframes on Starburst with Ibis (link coming) |
+| 2026-06-18 | MCP Server (link coming) |
+| 2026-07-16 | Query Plans (link coming) |
 
 ## Prior Workshop Webinars (available on-demand)
 
 | Topic | Date |
 |-------|------|
+| [Migrating to Apache Iceberg from Hive](https://www.starburst.io/info/workshop-migrating-to-apache-iceberg-from-hive/) | 2026-03-12
 | [Hands‑On with Apache Iceberg: Build, Evolve, Operate](iceberg-exploration/README.md) | 2026-02-19 |
