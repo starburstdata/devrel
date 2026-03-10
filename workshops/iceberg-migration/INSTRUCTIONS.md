@@ -13,7 +13,7 @@ CREATE SCHEMA tmp_cat.hive2ice;
 USE tmp_cat.hive2ice;
 ```
 
-![Create schema](https://github.com/starburstdata/devrel/raw/master/workshops/iceberg-migration/schema-setup.png "Create schema")
+![Create schema](https://github.com/starburstdata/devrel/raw/main/workshops/iceberg-migration/schema-setup.png "Create schema")
 
 Copy the content from [activities.sql](./activities.sql) into a query editor tab.
 

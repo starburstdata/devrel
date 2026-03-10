@@ -2,7 +2,7 @@
 
 ## Workshop: Hands‑On with Apache Iceberg: Build, Evolve, Operate
 
-### [Webinar Registration](https://www.starburst.io/info/hands-on-with-apache-iceberg-build-evolve-operate-event-webinar-light/)
+### [Watch On-demand](https://www.starburst.io/info/hands-on-with-apache-iceberg-build-evolve-operate-event-webinar-light/)
 
 ### [INSTRUCTIONS](INSTRUCTIONS.md)
 

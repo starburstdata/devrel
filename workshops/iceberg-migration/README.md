@@ -2,7 +2,7 @@
 
 ## Workshop: Migrating to Apache Iceberg from Hive, Step-by-Step
 
-### [Webinar Registration](https://www.starburst.io/info/workshop-migrating-to-apache-iceberg-from-hive/)
+### [Watch On-demand](https://www.starburst.io/info/workshop-migrating-to-apache-iceberg-from-hive/)
 
 ### [INSTRUCTIONS](INSTRUCTIONS.md)
 
