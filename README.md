@@ -1,6 +1,6 @@
 # devrel
 
-[Developer Relations](https://devcenter.starburst.io) for Starburst and OSS Trino
+[Developer Relations](https://devcenter.starburst.io) for Starburst and Trino
 
 ## Webinar and Video Series
 
