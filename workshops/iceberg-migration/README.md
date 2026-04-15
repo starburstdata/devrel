@@ -22,4 +22,4 @@ This 90 minute hands-on Workshop walks you through migrating Apache Hive tables 
 
 ### Presenters
 
-- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and OSS Trino
+- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and Trino

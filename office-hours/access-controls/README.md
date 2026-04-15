@@ -19,4 +19,4 @@ This 30 minute Office Hours interactive & hands-on webinar shows how to lock dow
 
 ### Presenters
 
-- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and OSS Trino
+- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and Trino

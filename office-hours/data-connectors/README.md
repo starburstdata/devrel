@@ -21,4 +21,4 @@ This 30 minute Office Hours interactive & hands-on webinar focuses on the variou
 
 ### Presenters
 
-- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and OSS Trino
+- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and Trino

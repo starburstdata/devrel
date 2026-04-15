@@ -22,4 +22,4 @@ This 90 minute hands-on Workshop provides an introduction to [Apache Iceberg](ht
 
 ### Presenters
 
-- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and OSS Trino
+- [Lester Martin](https://linktr.ee/lestermartin) - Developer Advocate for Starburst and Trino
