@@ -18,7 +18,7 @@ The registration process is self-explanatory, but *if needed*, there is a [Starb
 
 ### AWS S3
 
-*For simplicity*, you can use the S3 bucket and credentials described in the [Configure a Starburst Galaxy data lake catalog and schema](https://devcenter.starburst.io/tutorials/configure-a-starburst-galaxy-data-lake-catalog-and-schema) tutorial.
+*For simplicity*, you can use the general instructions described in the [Configure a Starburst Galaxy data lake catalog and schema](https://devcenter.starburst.io/tutorials/configure-a-starburst-galaxy-data-lake-catalog-and-schema) tutorial. The workshop facilitator will provide the S3 bucket and credentials to use. *For on-demand use*, request the S3 connection details from [devrel@starburst.io](mailto:devrel%40starburst.io?subject=need%20S3%20details%20for%20workshops).
 
 **Alternatively**, any Trino catalog configured with the [Iceberg connector](https://trino.io/docs/current/connector/iceberg.html) can be used.
 
