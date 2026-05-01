@@ -42,13 +42,13 @@ SELECT s.name  AS supplier_name, p.brand AS brand_name,
        r.name  AS region_name, count() AS nbr_line_items
        --the region of the customer, not the supplier
 FROM
-   lineitem      AS l
-   JOIN orders   AS o ON l.orderkey = o.orderkey
-   JOIN customer AS c ON o.custkey = c.custkey
-   JOIN nation   AS n ON c.nationkey = n.nationkey
-   JOIN region   AS r ON n.regionkey = r.regionkey
-   JOIN part     AS p ON l.partkey = p.partkey
-   JOIN supplier AS s ON l.suppkey = s.suppkey
+   tpch.tiny.lineitem      AS l
+   JOIN tpch.tiny.orders   AS o ON l.orderkey = o.orderkey
+   JOIN tpch.tiny.customer AS c ON o.custkey = c.custkey
+   JOIN tpch.tiny.nation   AS n ON c.nationkey = n.nationkey
+   JOIN tpch.tiny.region   AS r ON n.regionkey = r.regionkey
+   JOIN tpch.tiny.part     AS p ON l.partkey = p.partkey
+   JOIN tpch.tiny.supplier AS s ON l.suppkey = s.suppkey
 GROUP BY ROLLUP (s.name, p.brand, r.name)
 HAVING count() > 650
 ORDER BY s.name, p.brand, r.name;
@@ -171,7 +171,7 @@ SELECT *
 --      Splits: 40 (was 210)
 
 -- why FIVE times as many as the number of files???
---   see https://www.starburst.io/community/forum/t/number-of-splits-using-the-hive-connector/363
+--   see https://lestermartin.blog/2023/07/18/determining-of-splits-w-trino-starburst-galaxy-iceberg-table-format/
 
 
 
