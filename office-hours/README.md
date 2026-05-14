@@ -10,7 +10,6 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Date | Topic |
 |------|-------|
-| 2026-05-14 | [AI-ready Data Products](https://www.starburst.io/info/office-hours-building-ai-ready-data-products/) |
 | 2026-06-04 | AIDA (link coming) |
 | 2026-07-02 | Jobs Scheduler & Data Quality (link coming) |
 
@@ -18,6 +17,7 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Topic | Date |
 |-------|------|
+| [AI-ready Data Products](data-products/README.md) | 2026-05-14 | 
 | [Auto Table Maintenance](table-maintenance/README.md) | 2026-04-16 |
 | [Secure Data Access](access-controls/README.md) | 2026-03-05 |
 | [Connect Once, Query Everywhere](data-connectors/README.md) | 2026-02-12 |
