@@ -15,7 +15,6 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Date | Topic |
 |------|-------|
-| 2026-05-21 | [Dataframes on Starburst with Ibis](https://www.starburst.io/info/workshop-building-data-pipelines-with-ibis-and-starburst/) |
 | 2026-06-18 | MCP Server (link coming) |
 | 2026-07-16 | Query Plans (link coming) |
 | 2026-??-?? | [Iceberg Branching & Tagging](https://www.starburst.io/info/branching-and-tagging-apache-iceberg-tables/) |
@@ -24,6 +23,7 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Topic | Date |
 |-------|------|
+| [Dataframes on Starburst with Ibis](https://www.starburst.io/info/workshop-building-data-pipelines-with-ibis-and-starburst/) 2026-05-21 | 
 | [Query Plan Analysis Deep-Dive with Starburst](query-plans/README.md) | 2026-04-30 |
 | [Migrating to Apache Iceberg from Hive](iceberg-migration/README.md) | 2026-03-12 |
 | [Hands‑On with Apache Iceberg: Build, Evolve, Operate](iceberg-exploration/README.md) | 2026-02-19 |
