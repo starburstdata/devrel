@@ -12,13 +12,22 @@ This video provides a narrated walkthrough of this setup section with a focus on
 
 If you do not already have a configured Starburst Galaxy environment, please [sign up](https://www.starburst.io/free-trial/) now. 
 
-The registration process is self-explanatory, but *if needed*, there is a [Starburst Galaxy: Getting started](https://devcenter.starburst.io/tutorials/starburst-galaxy-getting-started) tutorial available. 
+The registration process is self-explanatory, but *if needed*, there is a [Starburst Galaxy: Getting started](https://devcenter.starburst.io/tutorials/starburst-galaxy-getting-started) tutorial available. Additional caveats about the tutorial and your Starburst Galaxy environment are:
+
+1. You do **NOT** need to setup the data lakehouse or PostgreSQL catalogs.
+1. Having a cluster configured to run in the AWS US-East-1 (North Virginia) is essential which is discussed. Workshop instructions will assume your cluster is named `aws-us-east-1-free` as detailed in the "create a new cluster" section.
 
 **Alternatively**, any [Trino](https://trino.io) environment, including [Starburst Enterprise](https://www.starburst.io/starburst-enterprise/), can be used.
 
 ### AWS S3
 
-*For simplicity*, you can use the general instructions described in the [Configure a Starburst Galaxy data lake catalog and schema](https://devcenter.starburst.io/tutorials/configure-a-starburst-galaxy-data-lake-catalog-and-schema) tutorial. **The workshop facilitator will provide the S3 bucket and credentials to use.** *For on-demand use*, request the S3 connection details from [devrel@starburst.io](mailto:devrel%40starburst.io?subject=need%20S3%20details%20for%20workshops).
+*For simplicity*, you can use the general instructions described in the [Configure a Starburst Galaxy data lake catalog and schema](https://devcenter.starburst.io/tutorials/configure-a-starburst-galaxy-data-lake-catalog-and-schema) tutorial with the following caveats & callouts from the instructions:
+
+1. Be sure to name the catalog `tmp_cat`.
+1. **The workshop facilitator will provide the S3 bucket and credentials to use.** *For on-demand use*, request the S3 connection details from [devrel@starburst.io](mailto:devrel%40starburst.io?subject=need%20S3%20details%20for%20workshops).
+1. Set the default table format to Iceberg, instead of Hive as the instructions indicate.
+1. Be sure to modify the S3 default directory to include YOUR NAME.
+1. Be sure to modify the name of the schema to create to use YOUR NAME.
 
 **Alternatively**, any Trino catalog configured with the [Iceberg connector](https://trino.io/docs/current/connector/iceberg.html) can be used.
 
