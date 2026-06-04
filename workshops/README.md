@@ -15,9 +15,7 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Date | Topic |
 |------|-------|
-| 2026-06-18 | MCP Server (link coming) |
-| 2026-07-16 | Query Plans (link coming) |
-| 2026-??-?? | [Iceberg Branching & Tagging](https://www.starburst.io/info/branching-and-tagging-apache-iceberg-tables/) |
+| 2026-06-18 | [MCP Server – Building Your Agent with Starburst](https://www.starburst.io/info/mcp-server-building-your-agent-with-starburst/) |
 
 ## Prior Workshop Webinars (available on-demand)
 
