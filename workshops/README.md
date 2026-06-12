@@ -21,6 +21,7 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Topic | Date |
 |-------|------|
+| [MCP Server – Building Your Agent with Starburst](mcp-server/README.md) | 2026-06-18 |
 | [Dataframes on Starburst with Ibis](ibis-pipelines/README.md) | 2026-05-21 | 
 | [Query Plan Analysis Deep-Dive with Starburst](query-plans/README.md) | 2026-04-30 |
 | [Migrating to Apache Iceberg from Hive](iceberg-migration/README.md) | 2026-03-12 |
