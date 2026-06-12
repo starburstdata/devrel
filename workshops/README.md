@@ -15,7 +15,7 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Date | Topic |
 |------|-------|
-| 2026-06-18 | [MCP Server – Building Your Agent with Starburst](https://www.starburst.io/info/mcp-server-building-your-agent-with-starburst/) |
+| 2026-07-16 | [AIDA Hands-On — Building Your First AI-Assisted Workflow](https://www.starburst.io/info/aida-hands-on-building-your-first-ai-assisted-workflow/) |
 
 ## Prior Workshop Webinars (available on-demand)
 

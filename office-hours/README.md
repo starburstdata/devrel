@@ -11,6 +11,7 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 | Date | Topic |
 |------|-------|
 | 2026-07-02 | [Pipeline Automation and Data Quality](https://www.starburst.io/info/office-hours-pipeline-automation-and-data-quality/) |
+| 2026-08-06 | [Branching and Tagging Apache Iceberg Tables](https://www.starburst.io/info/office-hours-branching-and-tagging-apache-iceberg-tables/) |
 
 ## Prior Office Hours Webinars (available on-demand)
 

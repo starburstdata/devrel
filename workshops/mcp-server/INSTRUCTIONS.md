@@ -6,8 +6,6 @@ This document contains the step-by-step instructions needed to complete the [MCP
 
 If you do not already have a configured Starburst Galaxy environment, please [sign up](https://www.starburst.io/free-trial/) now. As you can see in this [YouTube short](https://www.youtube.com/shorts/rel2EMmxR9c), it really is quick & painless.
 
-Follow the [Environment Setup](../ENV-SETUP.md) instructions prior to the next steps.
-
 ## Claude setup
 
 If you do not already have a Cloud account, please [sign up](https://claude.ai/) now. There is a FREE tier and you only need to have Claude working in your browser (no need to download Claude Desktop or use Claude Code).
