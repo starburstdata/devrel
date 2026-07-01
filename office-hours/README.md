@@ -10,13 +10,13 @@ The table below shows the upcoming webinars in this series, but ALL Starburst we
 
 | Date | Topic |
 |------|-------|
-| 2026-07-02 | [Pipeline Automation and Data Quality](https://www.starburst.io/info/office-hours-pipeline-automation-and-data-quality/) |
 | 2026-08-06 | [Branching and Tagging Apache Iceberg Tables](https://www.starburst.io/info/office-hours-branching-and-tagging-apache-iceberg-tables/) |
 
 ## Prior Office Hours Webinars (available on-demand)
 
 | Topic | Date |
 |-------|------|
+| [Pipeline Automation and Data Quality](https://www.starburst.io/info/office-hours-pipeline-automation-and-data-quality/) | 2026-07-02 |
 | [AI Data Assistant (AIDA)](aida/README.md) | 2026-06-04 |
 | [AI-ready Data Products](data-products/README.md) | 2026-05-14 | 
 | [Auto Table Maintenance](table-maintenance/README.md) | 2026-04-16 |
